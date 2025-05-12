@@ -4,22 +4,22 @@ let score = 0;
 let currentLesson = "";
 
 const lessonCodes = {
-    "L1": { take: "L1TAKE", retake: "L1RETAKE" },
-    "L2": { take: "L2TAKE", retake: "L2RETAKE" },
-    "L3": { take: "L3TAKE", retake: "L3RETAKE" },
-    "L4": { take: "L4TAKE", retake: "L4RETAKE" },
-    "L5": { take: "L5TAKE", retake: "L5RETAKE" },
-    "L6": { take: "L6TAKE", retake: "L6RETAKE" },
-    "L7": { take: "L7TAKE", retake: "L7RETAKE" },
-    "L8": { take: "L8TAKE", retake: "L8RETAKE" },
-    "L9": { take: "L9TAKE", retake: "L9RETAKE" },
-    "L10": { take: "L10TAKE", retake: "L10RETAKE" },
-    "L11": { take: "L11TAKE", retake: "L11RETAKE" },
-    "L12": { take: "L12TAKE", retake: "L12RETAKE" },
-    "L13": { take: "L13TAKE", retake: "L13RETAKE" },
-    "L14": { take: "L14TAKE", retake: "L14RETAKE" },
-    "L15": { take: "L15TAKE", retake: "L15RETAKE" },
-    "L16": { take: "L16TAKE", retake: "L16RETAKE" }
+    "L1": { take: "727786", retake: "L1RETAKE" },
+    "L2": { take: "414740", retake: "L2RETAKE" },
+    "L3": { take: "713612", retake: "L3RETAKE" },
+    "L4": { take: "869449", retake: "L4RETAKE" },
+    "L5": { take: "634562", retake: "L5RETAKE" },
+    "L6": { take: "398403", retake: "L6RETAKE" },
+    "L7": { take: "483994", retake: "L7RETAKE" },
+    "L8": { take: "864681", retake: "L8RETAKE" },
+    "L9": { take: "793891", retake: "L9RETAKE" },
+    "L10": { take: "847032", retake: "L10RETAKE" },
+    "L11": { take: "992523", retake: "L11RETAKE" },
+    "L12": { take: "966692", retake: "L12RETAKE" },
+    "L13": { take: "457016", retake: "L13RETAKE" },
+    "L14": { take: "423545", retake: "L14RETAKE" },
+    "L15": { take: "256258", retake: "L15RETAKE" },
+    "L16": { take: "963943", retake: "L16RETAKE" }
 };
 
 // DOM Elements
