@@ -1,0 +1,120 @@
+{
+  "code": "L1TAKE",
+  "questions": [
+    {
+      "type": "mcq",
+      "question": "حمد کا مطلب کیا ہے؟",
+      "options": ["دعا", "تعریف", "سوال", "جواب"],
+      "answer": 1,
+      "correctAnswer": "تعریف"
+    },
+    {
+      "type": "mcq",
+      "question": "شاعر نے قدرت کی کن چیزوں کا ذکر کیا؟",
+      "options": ["گاڑی", "کمپیوٹر", "زمین و آسمان", "موبائل"],
+      "answer": 2,
+      "correctAnswer": "زمین و آسمان"
+    },
+    {
+      "type": "mcq",
+      "question": "Who is praised in this poem?",
+      "options": ["The Prophet (PBUH)", "A king", "Allah Almighty", "A poet"],
+      "answer": 2,
+      "correctAnswer": "Allah Almighty"
+    },
+    {
+      "type": "mcq",
+      "question": "\"تسبیح\" means:",
+      "options": ["Prayer", "Praise of Allah", "Complaint", "Question"],
+      "answer": 1,
+      "correctAnswer": "Praise of Allah"
+    },
+    {
+      "type": "mcq",
+      "question": "Which element of nature is not mentioned in the poem?",
+      "options": ["Sky", "Light", "River", "Car"],
+      "answer": 3,
+      "correctAnswer": "Car"
+    },
+    {
+      "type": "short",
+      "question": "نظم کا بنیادی پیغام کیا ہے؟",
+      "answer": "اللہ کی بڑائی اور قدرت کی تعریف۔"
+    },
+    {
+      "type": "short",
+      "question": "شاعر کے نزدیک قدرت کس کی گواہی دیتی ہے؟",
+      "answer": "اللہ کی نشانیاں زمین و آسمان وغیرہ۔"
+    },
+    {
+      "type": "short",
+      "question": "تسبیح کا مطلب اپنے الفاظ میں بیان کریں۔",
+      "answer": "پاکی اور بڑائی بیان کرنا۔"
+    },
+    {
+      "type": "short",
+      "question": "What is the poet thankful for?",
+      "answer": "قدرت کی خوبصورتی اللہ کی نشانی ہے۔"
+    },
+    {
+      "type": "short",
+      "question": "What should a human being do in response to nature's beauty?",
+      "answer": "انسان کو اللہ کا شکر ادا کرنا چاہیے۔"
+    },
+    {
+      "type": "blank",
+      "question": "حمد کا مطلب ہے __________۔",
+      "answer": "تعریف"
+    },
+    {
+      "type": "blank",
+      "question": "ہر چیز اللہ کی __________ کرتی ہے۔",
+      "answer": "تسبیح"
+    },
+    {
+      "type": "blank",
+      "question": "شاعر کے مطابق زمین و آسمان اللہ کی __________ ہیں۔",
+      "answer": "نشانیاں"
+    },
+    {
+      "type": "blank",
+      "question": "Nature reflects the __________ of God.",
+      "answer": "greatness"
+    },
+    {
+      "type": "blank",
+      "question": "The poem teaches us to be __________.",
+      "answer": "thankful"
+    },
+    {
+      "type": "truefalse",
+      "question": "حمد صرف انسانوں کی تعریف ہے۔",
+      "answer": false,
+      "correctAnswer": "❌"
+    },
+    {
+      "type": "truefalse",
+      "question": "شاعر نے اللہ کی نشانیاں بیان کیں۔",
+      "answer": true,
+      "correctAnswer": "✅"
+    },
+    {
+      "type": "truefalse",
+      "question": "The poem is about human emotions.",
+      "answer": false,
+      "correctAnswer": "❌"
+    },
+    {
+      "type": "truefalse",
+      "question": "Nature is silent in praising God.",
+      "answer": false,
+      "correctAnswer": "❌"
+    },
+    {
+      "type": "truefalse",
+      "question": "The sky and earth glorify Allah.",
+      "answer": true,
+      "correctAnswer": "✅"
+    }
+  ]
+}
